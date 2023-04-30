@@ -1,1 +1,1 @@
-# Brute-force algorithm for calculating the convex hull problem
+# Coding Problems from my algorithms and complexities class
